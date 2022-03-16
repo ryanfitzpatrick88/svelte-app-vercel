@@ -30,6 +30,7 @@
   },
   "type": "module",
   "dependencies": {
+    "@mdi/js": "^6.5.95",
     "node-sass": "^7.0.1",
     "svelte-materialify": "^0.3.11"
   }
